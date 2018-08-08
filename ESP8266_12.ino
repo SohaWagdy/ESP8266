@@ -5,8 +5,8 @@
  * MAIL: weave.company@gmail.com
 */
 
-#define SSID "Future Electronics" //Wifi name
-#define PASS "11111111"          // Wifi password
+#define SSID "WifiName" //replace with  your Wifi name 
+#define PASS "WifiPassword" // replace with your Wifi password
 #define IP "api.thingspeak.com" // The website that you want to connect to, fo example: thingspeak.com
 
 String url = "/talkbacks/3510/commands/160488?api_key=OR8Y2Q84TGE4DII5"; //The rest of the url. For example: thingspeak talkback, Gets a reply "ahmed" 
